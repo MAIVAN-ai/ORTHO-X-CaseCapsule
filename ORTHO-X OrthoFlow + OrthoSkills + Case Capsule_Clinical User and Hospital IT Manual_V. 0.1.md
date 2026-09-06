@@ -1,5 +1,5 @@
-# ORTHO-X OrthoFlow + OrthoSkills + Case Capsule  
-## Clinical User & Hospital IT Manual
+# Clinical User & Hospital IT Manual  
+## ORTHO-X OrthoFlow + OrthoSkills + Case Capsule
 
 **Version:** 0.1 — Development / Pilot Edition  
 **Audience:** Orthopaedic surgeons, residents, physiotherapists, nurses, outcome teams, clinical informatics teams, PACS/EHR administrators, hospital IT, information security and clinical AI teams  
