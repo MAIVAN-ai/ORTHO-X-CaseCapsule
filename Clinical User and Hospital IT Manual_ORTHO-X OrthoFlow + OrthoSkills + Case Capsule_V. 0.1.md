@@ -136,10 +136,10 @@ There is not yet a single proprietary ORTHO-X desktop window.
 
 Clinicians may interact with the system through an authorized AI host such as:
 
-- ChatGPT Work / Codex;
-- Claude / Cowork;
-- OrthoClaw;
-- a hospital-local agent;
+- ChatGPT Work / Codex / ChatGPT for Healthcare;
+- Claude / Cowork / Claude for Healthcare;
+- NVIDIA NemoClaw, integrating WhatsApp, Slack, Telegram;
+- a hospital-local agent, e.g. HERMES Agent, integrating WhatsApp, Slack, Telegram;
 - a future ORTHO-X OrthoFlow web interface.
 
 The AI host presents a normal conversational user interface.
